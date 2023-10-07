@@ -1,4 +1,4 @@
-oiii! Eu sou o Thiago Leite 😜 começando residência em software
+oiii! Eu sou o Thiago Leite 😜 Residência em software
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leitetc&show_icons=true&theme=radical)
 
